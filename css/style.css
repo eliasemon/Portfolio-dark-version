@@ -90,8 +90,15 @@ body{
 }
 #banner .banner_overlay{
 	padding: 190px 0;
-	background: rgba(0,0,0,.5);
+	background: rgba(19, 15, 64, .4);
 	position: relative;
+}
+#particles-js{
+	position: absolute;
+	left: 0;
+	top: 0;
+	height: 100%;
+	width: 100%;
 }
 #banner .content{
 	text-align: center;
