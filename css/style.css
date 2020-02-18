@@ -668,14 +668,14 @@ body{
 	/* position: absolute; */
 	top: -70px;
 	box-sizing: border-box;
-	background: #95afc0;
+	background: rgba(149, 175, 192, .4);
 }
 #contact .meassage_area .form_box form{
 	text-align: center;
 }
 #contact .meassage_area .form_box form h2{
 	font-size: 22px;
-	color: rgba(87, 101, 116,1.0);
+	color: rgba(255, 255, 116,.7);
 	margin: 30px 0;
 }
 #contact .meassage_area .form_box form input[type=text],
